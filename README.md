@@ -5,6 +5,18 @@ Adapter for programming [x-OSCs](http://www.x-io.co.uk/products/x-osc/) with ICS
 
 PCB with black solder mask and yellow silkscreen was ordered from [pcbpanel](http://www.pcbpanel.co.uk/browse-and-buy-pcb-panels.html?page=shop.product_details&flypage=shop.flypage&product_id=21&category_id=7).
 
+Fully Assembled
+---------------
+
+<div align="center">
+<img src="https://raw.github.com/xioTechnologies/x-OSC-Programmer/master/Assembled.png"/>
+</div>
+
+<div align="center">
+<img src="https://raw.github.com/xioTechnologies/x-OSC-Programmer/master/Underside.png"/>
+</div>
+
+
 Prototype Design
 ----------------
 
